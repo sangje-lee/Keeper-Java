@@ -42,7 +42,7 @@ public class Note
         return theTitle;
     }
 
-    // Return the content of the note in Strong form
+    // Return the content of the note in String form
     public String returnContent() {
         return theContent;
     }
